@@ -6,9 +6,9 @@ This Python script organizes files from a source folder into destination folders
 
 1. Clone the repository:
 
-	git clone https://github.com/yourusername/file-organizer.git
+	git clone https://github.com/vbvsk/VK_Python_Projects.git
 
-	cd file-organizer
+	cd task_automation_Script
 
 
 

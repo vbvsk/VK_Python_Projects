@@ -7,23 +7,22 @@ This Python script organizes files from a source folder into destination folders
 1. Clone the repository:
 
 	git clone https://github.com/yourusername/file-organizer.git
+
 	cd file-organizer
 
 
 
-2. Modify the script (file_organizer.py) with your source and destination folder paths:
+3. Modify the script (file_organizer.py) with your source and destination folder paths:
 
 	source_folder = "path/to/source/folder"
-	destination_folder = "path/to/destination/folder"
 
 
-
-3. Run the script:
+4. Run the script:
 
 	python3 file_organizer.py
 
 
-4. Example
+5. Example
 
 Suppose the source folder contains files like:
 
@@ -47,7 +46,7 @@ pptx
 presentation.pptx
 
 
-5. WARNING:
+**5. WARNING:**
 
 
 EXECUTED TASK CANNOT BE UNDONE :)

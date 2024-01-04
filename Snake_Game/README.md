@@ -1,4 +1,5 @@
 **Hi there!**
+**OPEN YOUR TERMINAL, AND FOLLOW THIS STEPS!**
 
 1. Fork this repository.
     ```bash

@@ -8,13 +8,14 @@ This Python script organizes files from a source folder into destination folders
 
 	git clone https://github.com/vbvsk/VK_Python_Projects.git
 
-	cd task_automation_Script
+	cd VK_Python_Projects/task_automation_Script
 
 
 
-**2. Modify the script (file_organizer.py) with your source and destination folder paths:**
-
-	source_folder = "path/to/source/folder"
+**2. Modify the script (file_organizer.py) with your source folder paths:**
+    _ As i had provided my source path in the script, please change and update it accordingly:)_
+	
+ 	source_folder = "path/to/source/folder"
 
 
 **3. Run the script:**
